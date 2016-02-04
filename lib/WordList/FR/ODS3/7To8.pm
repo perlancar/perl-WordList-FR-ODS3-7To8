@@ -1,4 +1,4 @@
-package WordList::FR:ODS3::7To8;
+package WordList::FR::ODS3::7To8;
 
 # DATE
 # VERSION
